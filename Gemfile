@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Default theme for new Jekyll sites.
-gem "minima", "~> 2"
+gem "jekyll-theme-minimal"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
