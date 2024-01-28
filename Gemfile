@@ -16,7 +16,10 @@ group :jekyll_plugins do
 
 end
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
 >>>>>>> 684ab2780248b834d94c208448805b29b7361c93
+=======
+>>>>>>> a54f1a1a6e8b2d04e9be8c2bd80e8f29a49d3a31
