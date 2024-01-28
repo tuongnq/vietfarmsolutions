@@ -1,0 +1,10 @@
+_site
+*.scssc
+.DS_Store
+
+node_modules/
+
+Gemfile.lock
+package-lock.json
+.ruby-version
+.jekyll-cache
