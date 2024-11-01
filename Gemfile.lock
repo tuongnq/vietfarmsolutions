@@ -43,6 +43,9 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-tagging (1.1.0)
       nuggets
+    jekyll-theme-minimal (0.2.0)
+      jekyll (> 3.5, < 5.0)
+      jekyll-seo-tag (~> 2.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -55,10 +58,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
     mini_portile2 (2.3.0)
-    minima (2.5.1)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     nuggets (1.6.1)
@@ -76,7 +75,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    webrick (1.8.1)
+    webrick (1.9.0)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -89,9 +88,9 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-seo-tag
   jekyll-tagging
+  jekyll-theme-minimal
   kramdown-parser-gfm
-  minima (~> 2)
-  webrick (~> 1.8)
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.4.19
